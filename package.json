@@ -1,0 +1,43 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "body-parser": "^1.20.2",
+    "browser-sync": "^2.29.2",
+    "desandro-matches-selector": "^2.0.2",
+    "ejs": "^3.1.9",
+    "ev-emitter": "^2.1.2",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "fizzy-ui-utils": "^3.0.0",
+    "get-size": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject": "^5.0.5",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-tinypng-compress": "^1.2.5",
+    "gulp-uglify": "^3.0.2",
+    "handlebars": "^4.7.7",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.7.0",
+    "masonry-layout": "^4.2.2",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.2.6",
+    "outlayer": "^2.1.1",
+    "pg": "^8.10.0",
+    "sequelize": "^6.31.0",
+    "stream-series": "^0.1.1"
+  }
+}
